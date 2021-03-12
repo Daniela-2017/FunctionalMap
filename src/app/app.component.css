@@ -1,0 +1,14 @@
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+#mapa-mapbox {
+    height: 50%;
+    width: 50%;
+    background-color: red;
+}
+
+#show {
+    height: 4%;
+    width: 10;
+    background-color: skyblue
+}
